@@ -1,0 +1,15 @@
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\bin\Release\net10.0\TH01.exe
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\bin\Release\net10.0\TH01.deps.json
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\bin\Release\net10.0\TH01.runtimeconfig.json
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\bin\Release\net10.0\TH01.dll
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\bin\Release\net10.0\TH01.pdb
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.AssemblyInfoInputs.cache
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.AssemblyInfo.cs
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.csproj.CoreCompileInputs.cache
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.sourcelink.json
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.dll
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\refint\TH01.dll
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.pdb
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\TH01.genruntimeconfig.cache
+D:\CSharp\Sgu26_CSharp\Lab02\TH01\obj\Release\net10.0\ref\TH01.dll
