@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj": {}
+    "D:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj": {}
   },
   "projects": {
-    "d:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj": {
+    "D:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj",
+        "projectUniqueName": "D:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj",
         "projectName": "TH02",
-        "projectPath": "d:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj",
+        "projectPath": "D:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\TH02.csproj",
         "packagesPath": "C:\\Users\\Mai\\.nuget\\packages\\",
-        "outputPath": "d:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\obj\\",
+        "outputPath": "D:\\CSharp\\Sgu26_CSharp\\Lab02\\TH02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mai\\AppData\\Roaming\\NuGet\\NuGet.Config"
